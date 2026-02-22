@@ -39,16 +39,24 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Work
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pratik0720&show_icons=true&theme=tokyonight&cache_seconds=1800" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=Pratik0720&theme=tokyonight&hide_border=false" height="160"/>
-</p>
+### 📱 Flutter Applications
+- Secure Password Manager App
+- Productivity & Utility Apps
+- Firebase-integrated mobile apps
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik0720&layout=compact&theme=tokyonight" height="160"/>
-</p>
+### 🤖 AI / ML Projects
+- Data analysis projects using Python
+- Machine learning model experiments
+- Prediction-based mini systems
+
+### 🧠 Generative AI Work (Learning)
+- Prompt engineering experiments
+- AI-powered app ideas
+- LLM-based concepts
+
+🚧 Currently building more real-world projects...
 ---
 
 ## 📌 Featured Projects
