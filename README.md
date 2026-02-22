@@ -1,115 +1,119 @@
-# Hi there 👋 I'm Pratik Gangurde
+<!-- ==================== HEADER / BANNER ==================== -->
+<h1 align="center">Hi 👋, I'm Pratik Gangurde</h1>
+<h3 align="center">📱 Flutter Developer | 🤖 AI/ML & Generative AI Enthusiast</h3>
 
-🎓 Computer Engineering Student | 📱 Flutter Developer | 🤖 AI/ML & Generative AI Enthusiast  
+<p align="center">
+  <a href="https://github.com/Pratik0720">
+    <img src="https://komarev.com/ghpvc/?username=Pratik0720&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  </a>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 B.E. in Computer Engineering (SPPU, 2024–2027)
-- 📱 Focused on **Mobile App Development using Flutter**
-- 🤖 Deeply interested in **Artificial Intelligence & Machine Learning**
-- 🧠 Exploring **Generative AI & Prompt Engineering**
-- 💡 Passionate about building **smart, user-friendly applications**
-- ⚡ Quick learner with strong **problem-solving and communication skills**
+- 🎓 B.E. Computer Engineering (SPPU, 2024–2027)
+- 📱 Focused on **Flutter App Development**
+- 🤖 Passionate about **AI / ML & Generative AI**
+- 🧠 Exploring **Prompt Engineering & LLM-based apps**
+- ⚡ Strong in **problem solving, learning & communication**
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 📱 App Development
-- Flutter (Dart)
-- Android (Java / Kotlin)
-- Firebase Integration
-- REST API Integration
-- UI/UX Design (Material Design)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### 🤖 AI / ML (learning phase)
-- Python
-- NumPy
-- Pandas
-- Machine Learning Basics
-- Data Preprocessing
+### 🤖 AI / ML & GenAI
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-### 🧠 Generative AI
-- Prompt Engineering
-- LLM Applications (learning phase)
-- AI-powered app ideas
-
-### 💻 Programming Languages
-- Dart
-- Python
-- Java
-- C++
-- kotlin
-
-### 🧰 Tools
-- Git & GitHub
-- VS Code
-- Android Studio
-- Jupyter Notebook
+### 💻 Languages
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ---
 
-## 📌 Projects
+## 📊 GitHub Stats
 
-### 🔹 Password Manager App (Flutter)
-A secure mobile app to store and manage passwords  
-- Encryption concepts  
-- Clean UI  
-- Local secure storage  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pratik0720&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratik0720&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik0720&layout=compact&theme=tokyonight" height="160"/>
+</p>
 
 ---
 
-### 🔹 AI/ML Mini Projects
-Collection of small projects including:
-- Data analysis
+## 📌 Featured Projects
+
+### 🔐 Password Manager App (Flutter)
+- Secure password storage
+- Clean UI
+- Local encryption concepts
+
+---
+
+### 🤖 AI/ML Mini Projects
+- Data preprocessing
 - Basic ML models
-- Prediction systems  
+- Prediction-based systems
 
 ---
 
-### 🔹 Android Utility Apps
-Small Android apps focused on:
-- User experience
-- Performance
-- Practical use cases  
+### 📱 Android Utility Apps
+- Practical tools
+- Performance-focused
+- User-friendly design
 
 ---
 
 🚧 **Currently Building:**
-- AI-powered mobile applications  
+- AI-powered mobile apps  
 - Smart productivity apps using Flutter  
 
 ---
 
-## 📈 Current Focus
+## 🧠 Current Focus
 
-- 🚀 Building **production-ready Flutter apps**
-- 🤖 Learning **Machine Learning & Deep Learning**
-- 🧠 Working on **Generative AI-based applications**
-- 🧩 Improving **DSA & logical thinking**
+- 📱 Advanced **Flutter App Development**
+- 🤖 **Machine Learning & Deep Learning**
+- 🧠 **Generative AI Applications**
+- 🧩 **DSA & Problem Solving**
 
 ---
 
 ## 🏆 Activities
 
-- 🎖 Member of **ACES Committee** (Computer Engineering Department)
-- 📢 Sharing tech learnings and growth journey
+- 🎖 Member of **ACES Committee**
+- 💡 Active in tech events and learning
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/pratik-gangurde-299b7431b  
-- 📧 Email: pratikgangurde0720@gmail.com  
+<p align="center">
+  <a href="https://linkedin.com/in/pratik-gangurde-299b7431b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Pratik%20Gangurde-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:pratikgangurde0720@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
 
 ---
 
 ## ⚡ Fun Fact
 
-> I love building apps that combine **beautiful UI + intelligent AI systems**
+> I build apps that combine **clean UI + powerful AI** to create meaningful user experiences 🚀
 
 ---
 
-⭐ *If you like my work, consider giving a star to my repositories!*
+<p align="center">⭐ If you like my work, consider giving a star to my repositories!</p>
