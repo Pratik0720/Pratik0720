@@ -42,14 +42,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pratik0720&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratik0720&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pratik0720&show_icons=true&theme=tokyonight&cache_seconds=1800" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=Pratik0720&theme=tokyonight&hide_border=false" height="160"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik0720&layout=compact&theme=tokyonight" height="160"/>
 </p>
-
 ---
 
 ## 📌 Featured Projects
