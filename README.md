@@ -2,11 +2,7 @@
 <h1 align="center">Hi 👋, I'm Pratik Gangurde</h1>
 <h3 align="center">📱 Flutter Developer | 🤖 AI/ML & Generative AI Enthusiast</h3>
 
-<p align="center">
-  <a href="https://github.com/Pratik0720">
-    <img src="https://komarev.com/ghpvc/?username=Pratik0720&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-  </a>
-</p>
+
 
 ---
 
